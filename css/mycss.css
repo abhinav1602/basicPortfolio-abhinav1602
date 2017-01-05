@@ -1,0 +1,74 @@
+*{
+	font-family: 'Ubuntu','Roboto';
+}
+
+#myleft{
+	position: relative;
+	margin-bottom: 0;
+	height: auto;
+	float:left;
+	width: 25%;
+	background: #3f51b5;
+	border-right: 5px dashed white;
+}
+
+#myright{
+	position: relative;
+	float:center;
+	background: white;
+	width: 70%;
+	margin: 1em 0.5em 1em 1em;
+	border: 1px light gray;
+}
+
+#myleft div img:first-child{
+	position: relative;
+	width:70%;
+	margin-left: 10%;
+	float: center;
+	border: 4px solid blue;
+}
+
+#myright div{
+	position: relative;
+	margin-top: 5%;
+	padding: 1em 0em 1em 0em;
+	background-color: white;
+
+}
+
+#myright div:hover{
+	position: relative;
+	padding: 10px 10px;
+	box-shadow: 2px 2px white;
+
+}
+
+#myright img{
+height: 200px;
+}
+
+footer{	
+position: fixed;
+margin-bottom: 0px;
+bottom: 0px;
+width: 100%;
+z-index: 1;
+}
+
+.page-footer{
+position: relative;
+background: teal;	
+}
+
+#contact{
+	position: relative;
+	float: center;
+	margin: 2em 5em 5em 10em;
+}
+#contact form{
+	position: relative;
+	background: white;
+	margin:2em 2em 2em 2em;
+	float: center;
+}

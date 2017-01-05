@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+	$(".button-collapse").sideNav();
+
 	$('#righttb').hide();
 	$("#result").hide();
 	$("#resume").hide();
@@ -35,6 +37,11 @@ $(document).ready(function(){
 
 
 	$('#pro').click(function() {
+		$("#project").fadeIn(2000);
+		$("#contact").hide();
+	});
+
+	$('#pro2').click(function() {
 		$("#project").fadeIn(2000);
 		$("#contact").hide();
 	});

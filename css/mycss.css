@@ -7,7 +7,7 @@
 	margin-bottom: 0;
 	height: auto;
 	float:left;
-	width: 25%;
+/*	width: 25%; */
 	background: #3f51b5;
 	border-right: 5px dashed white;
 }
@@ -16,8 +16,8 @@
 	position: relative;
 	float:center;
 	background: white;
-	width: 70%;
-	margin: 1em 0.5em 1em 1em;
+/*	width: 70%; 
+	margin: 1em 0.5em 1em 1em; */
 	border: 1px light gray;
 }
 

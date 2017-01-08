@@ -61,18 +61,6 @@ position: relative;
 background: teal;	
 }
 
-#contact{
-	position: relative;
-	float: center;
-	margin: 2em 5em 5em 10em;
-}
-#contact form{
-	position: relative;
-	background: white;
-	margin:2em 2em 2em 2em;
-	float: center;
-}
-
 /* fallback */
 @font-face {
   font-family: 'Material Icons';
